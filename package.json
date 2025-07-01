@@ -1,0 +1,15 @@
+{
+  "name": "one-room-chat",
+  "version": "1.0.0",
+  "description": "A simple real-time chat app with one room using Node.js and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4",
+    "socket.io": "^4.7.5"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
