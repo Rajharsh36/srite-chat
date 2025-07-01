@@ -1,7 +1,7 @@
 {
   "name": "one-room-chat",
   "version": "1.0.0",
-  "description": "A simple real-time chat app with one room using Node.js and Socket.io",
+  "description": "A simple one-room chat app with client ID tagging and message history",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
